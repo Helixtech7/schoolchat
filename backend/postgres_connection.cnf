@@ -1,0 +1,7 @@
+[client]
+host = ec2-184-73-181-132.compute-1.amazonaws.com
+database = dartjavu6ml36t
+user = dlsdqdygwmikii
+port = 5432
+password = ba8ddbc7a5a53896971ee45385411b68281fbf1ea09a456c6f42cb84fa380023
+default-character-set = utf8
