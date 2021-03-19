@@ -9,7 +9,7 @@ Django==2.1.4
 django-cors-headers==2.4.0
 django-filter==2.0.0
 django-storages==1.7.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 djangorestframework-simplejwt==3.3
 docutils==0.14
 firebase-admin==2.14.0
